@@ -2,6 +2,12 @@
 *List of templates focused on PyTorch deep learning framework.* This repository contatins code template aiming to exaplain how PyTorch works not how to implement a specific model! If you are looking for a specific tutorial on CV, NLP or others, please look one folder upstream this one.
 ***
 
+## PyTorch Lightning
+- [PyTorch Lightning](https://www.pytorchlightning.ai/) makes creating PyTorch models easier. At the moment writing even a simple PyTorch model means writing a lot of code and that is the price you have to pay for its flexibility. 
+- If a boiler plate code does nothing more than the default training process then it can be abstraced away. In Lightning, these elements are automated as much as possible.
+- PyTorch Lightning is built on top of ordinary (vanilla) PyTorch. The purpose of Lightning is to provide a research framework that allows for fast experimentation and scalability, which it achieves via an OOP approach that removes boilerplate and hardware-reference code.
+***
+
 ## Available tutorials
 - AlexNet, Inception, DenseNet
 - Building an LSTM network
